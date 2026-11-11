@@ -1,3 +1,68 @@
 body{
-    background-color:blueviolet
+    background-color:black;
+    font-family: Arial, sans-serif;
+    color: goldenrod;
 }
+.awards{
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+    margin: 20px ;
+    font-weight: bold;
+    font-style: italic;
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    flex-wrap: wrap;
+    flex direction: color: ;
+    
+
+    
+}
+.instrument{
+    width: auto;
+
+    border-radius:50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;       
+    margin: 20px;
+    padding: 10px;
+    
+}
+.awards1{
+    font-size:50px;
+    font-weight: bold;
+    text-align: center;
+
+}
+.a1{
+    font-size: 70px;
+    font-weight: bold;
+    font-style: italic;
+    border-radius: 50px;
+}
+.bullets{
+    font-size: 30px;
+
+    
+    font-style: italic;
+    border-width: 2px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+    .a2{
+        font-size: 30px;
+        font-weight: bold;
+        color: goldenrod;
+
+    }
+    a3{
+        color:navyblue;        
+        font-size: 100px;
+        color:wheat;
+        padding: 15px;
+        text-align: center;
+    }
+    
+
